@@ -1,0 +1,8 @@
+body {
+    color:#5b5b5b;
+    background-color:#FFFFFF
+}
+div.background-wrapper{
+    border-color: #5b5b5b;
+}
+a, a:link, a:visited, h1, h2, h3 { color: #5b5b5b; }
